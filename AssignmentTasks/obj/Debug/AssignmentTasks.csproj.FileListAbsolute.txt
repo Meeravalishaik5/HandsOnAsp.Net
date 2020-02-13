@@ -1,0 +1,6 @@
+E:\ASP.NET\AssignmentTasks\bin\Debug\AssignmentTasks.exe.config
+E:\ASP.NET\AssignmentTasks\bin\Debug\AssignmentTasks.exe
+E:\ASP.NET\AssignmentTasks\bin\Debug\AssignmentTasks.pdb
+E:\ASP.NET\AssignmentTasks\obj\Debug\AssignmentTasks.csprojAssemblyReference.cache
+E:\ASP.NET\AssignmentTasks\obj\Debug\AssignmentTasks.exe
+E:\ASP.NET\AssignmentTasks\obj\Debug\AssignmentTasks.pdb
